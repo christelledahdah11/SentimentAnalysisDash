@@ -1,0 +1,4 @@
+ReviewID,Platform,Branch,Date,ReviewerName,ReviewText,Rating,SentimentLabel,SentimentScore,Categories,Keywords
+R001,Google,Beirut,2025-01-01,John D.,friendly staff and fast delivery,5,Positive,0.9,Staff;Delivery,"friendly staff, fast delivery"
+R002,Yelp,Dubai,2025-02-15,Sarah M.,overpriced and dirty tables,2,Negative,0.95,Price;Cleanliness,"overpriced, dirty"
+R003,Trustpilot,Paris,2025-03-20,Ali K.,great price and quick delivery,5,Positive,0.88,Price;Delivery,"great price, quick delivery"
